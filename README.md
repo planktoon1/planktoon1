@@ -8,7 +8,7 @@
 
 - 👨‍🔬 &nbsp; Exploring new technologies and developing cool things.
 
-- 👷‍♂️ &nbsp; Currently Fullstack Software Consultant @Geshdo.
+- 👷‍♂️ &nbsp; Fullstack Software Consultant @Geshdo.
 
 - ⛅ &nbsp; Developing in the clouds.
 
