@@ -7,7 +7,7 @@
 
 - Exploring new technologies and developing cool things.
 
-- Fullstack Software Consultant @Geshdo.
+- Fullstack Software Consultant [@Geshdo](https://geshdo.com/).
 
 - Developing in the clouds.
 
