@@ -32,10 +32,17 @@
 
 - Unity | GameMaker Studio
 
-
 <hr>
 
+<h3> Personal Projects </h3>
 
+#### See repositories below for code and links to live demos
+
+- Crafting simulator for the video game Path of Exile
+
+- Running Race event website: Fun Run by Flemming
+
+<hr>
 
 <h3> 🤝 Connect </h3>
 
