@@ -34,7 +34,7 @@
 
 <hr>
 
-<h3> Top 2 Personal Projects 👀 </h3>
+<h3> 👀 Some of my Personal Projects </h3>
 
 #### See repositories below for code and links to live demos
 
