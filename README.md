@@ -38,9 +38,9 @@
 
 #### See repositories below for code and links to live demos
 
-- Crafting simulator for the video game Path of Exile
+- [Crafting simulator for the video game Path of Exile](https://github.com/planktoon1/PathofExile_Stash)
 
-- Running Race event website: Fun Run by Flemming
+- [Running Race event website: Fun Run by Flemming](https://github.com/planktoon1/FunRunByFlemming)
 
 <hr>
 
