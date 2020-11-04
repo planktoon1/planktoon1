@@ -1,21 +1,20 @@
-### Hi there 👋<h2> I'm Frederik</h2>
+### Hi there 👋
+<h2> I'm Frederik</h2>
 
 <img align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQHdYnL5SGom-Q/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=djH86uutI7KH81yAa2l4RZ517f2aB6fn5oFh7yUJPYY" width="140">
 
 <h3>About Me </h3>
 
+- Exploring new technologies and developing cool things.
+
+- Fullstack Software Consultant @Geshdo.
+
+- Developing in the clouds.
+
+- AP Degree in computer science.
 
 
-- 👨‍🔬 &nbsp; Exploring new technologies and developing cool things.
-
-- 👷‍♂️ &nbsp; Fullstack Software Consultant @Geshdo.
-
-- ⛅ &nbsp; Developing in the clouds.
-
-- 🎓 &nbsp; AP Degree in computer science.
-
-
-<h3>🛠 Tech Stack</h3>
+<h3> Tech Stack</h3>
 
 - Everything Javascript | Serverless
 
