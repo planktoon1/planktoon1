@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2> I'm Frederik</h2>
 
-<img align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQHdYnL5SGom-Q/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=djH86uutI7KH81yAa2l4RZ517f2aB6fn5oFh7yUJPYY" width="140">
+<img align='right' src="https://scontent.fmmx3-1.fna.fbcdn.net/v/t1.15752-9/123612301_760032591218945_9191660755865143655_n.png?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=zplX_8CuUYcAX9_vOh0&_nc_ht=scontent.fmmx3-1.fna&oh=3662eef6566a45ed7776367c60a75e1d&oe=5FC70F66"  height="280">
 
 <h3>About Me </h3>
 
