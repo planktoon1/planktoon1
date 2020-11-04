@@ -22,6 +22,15 @@
 
 - AWS | Lambda | Cognito | DynamoDB | EC2 | And more..
 
+<h3> More Tech I've Worked With </h3>
+
+- Swift | Java | Python | C# | C | C++ 
+
+- GraphQL | MongoDB | Prisma JS | Handlebars | Express
+
+- SQL | MongoDB 
+
+- Unity | GameMaker Studio
 
 
 <hr>
