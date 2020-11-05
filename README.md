@@ -7,7 +7,7 @@
 
 - Exploring new technologies and developing cool things.
 
-- Fullstack Software Consultant [@Geshdo](https://geshdo.com/).
+- Full stack Software Consultant [@Geshdo](https://geshdo.com/).
 
 - Developing in the clouds.
 
@@ -18,7 +18,7 @@
 
 - Everything Javascript | Serverless
 
-- HTML | CSS | JavaScript | ReactJS | Vue.js
+- HTML | CSS | JavaScript | ReactJS | Node.js | Vue.js
 
 - AWS | Lambda | Cognito | DynamoDB | EC2 | And more..
 
