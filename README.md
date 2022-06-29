@@ -16,7 +16,9 @@
 
 - Everything Javascript | Serverless
 
-- HTML | CSS | JavaScript | ReactJS | Node.js | Vue.js
+- HTML | CSS | JavaScript | Node.js | Typescript
+
+- React | React Native | Nextjs | Vue | Storybook | RxJS
 
 - AWS | Lambda | Cognito | DynamoDB | EC2 | And more..
 
