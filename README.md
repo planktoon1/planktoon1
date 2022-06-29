@@ -38,7 +38,7 @@
 
 - [Crafting simulator for the video game Path of Exile](https://github.com/planktoon1/PathofExile_Stash)
 
-- [An architectual technologists portfolio](https://github.com/planktoon1/PathofExile_Stash](https://github.com/planktoon1/anas-portfolio))
+- [An architectual technologists portfolio](https://github.com/planktoon1/anas-portfolio)
 
 - [Running Race event website: Fun Run by Flemming](https://github.com/planktoon1/FunRunByFlemming)
 
