@@ -5,9 +5,9 @@
 
 - Exploring new technologies and developing cool things.
 
-- Frontend developer [@Salling Group](https://sallinggroup.com/).
+- Senior Frontend developer [@Salling Group](https://sallinggroup.com/).
 
-- Fullstack cloud stuff in my free time.
+- Occasional fullstack side projects in my free time.
 
 - AP Degree in computer science.
 
@@ -16,17 +16,19 @@
 
 - Everything Javascript | Serverless
 
-- HTML | CSS | JavaScript | Node.js | Typescript
+- HTML | CSS | Node.js | Typescript
 
 - React | React Native | Nextjs | Vue | Storybook | RxJS
 
-- AWS | Lambda | Cognito | DynamoDB | EC2 | And more..
+- Turborepo | Rush | Workspaces | Github actions
+
+- AWS | Lambda | DynamoDB | EC2 | And more..
 
 <h3> More Tech I've Worked With </h3>
 
-- Swift | Java | Python | C# | C | C++ 
+- Swift | Python | C# | C | C++ | Kotlin | Java
 
-- GraphQL | MongoDB | Prisma JS | Handlebars | Express
+- MongoDB | Prisma JS | Handlebars | Express | GraphQL
 
 - SQL | MongoDB 
 
