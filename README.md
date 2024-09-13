@@ -7,16 +7,10 @@
 
 - Senior developer [@Kanpla](https://kanpla.io/).
 
-- Occasional fullstack side projects in my free time.
-
-- AP Degree in computer science.
-
 
 <h3> Tech Stack</h3>
 
-- Everything Javascript | Serverless
-
-- HTML | CSS | Node.js | Typescript
+- Everything Javascript
 
 - React | React Native | Nextjs | Vue | Storybook | RxJS
 
