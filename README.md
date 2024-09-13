@@ -5,7 +5,7 @@
 
 - Exploring new technologies and developing cool things.
 
-- Senior Frontend developer [@Salling Group](https://sallinggroup.com/).
+- Senior developer [@Kanpla](https://kanpla.io/).
 
 - Occasional fullstack side projects in my free time.
 
